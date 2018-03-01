@@ -1,6 +1,5 @@
 # EquiMiner
 Mining Software for https://equipool.1ds.us
-![image](https://i.imgur.com/9NJOj2C.png)
 
 ### Features
 * Flexible control over what you're mining
@@ -22,5 +21,8 @@ Check out the [Releases page](https://github.com/1ds/equiminer/releases) to down
 ### Updates
 Receive automatic updates from Github when new versions are released by using the "Watch" feature on the top right.
 
+### Screenshots
+![image](https://i.imgur.com/9NJOj2C.png)
+![image](https://i.imgur.com/xwuvEEE.png)
 
 > Please note that there is a 0.2% pool fee that https://equipool.1ds.us charges (+0.8% donation to the community when mining BTCZ) and each miner has its own fee that they charge. Using EquiMiner does not add any additional fees. This is a free software provided to make mining on Equipool easier!
