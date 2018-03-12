@@ -8,6 +8,8 @@ Mining Software for https://equipool.1ds.us
   * Mix and match at will!
 * Automatic coin switching based on profitability
 * Automatic coin switching based on desired difficulty
+* Option to automatically start mining when miner loads
+* Option to automatically mine when computer is idle (configurable delay)
 * You select which mining program you want to use (mining exe files are baked in!)
   * Select between the latest from EWBF, DSTM or Bminer
 * Everything is saved automatically! Once you add an address for a coin, it's saved. No need to go back to your cheat sheet every time you switch what you're mining
